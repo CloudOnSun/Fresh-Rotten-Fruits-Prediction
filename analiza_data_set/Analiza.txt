@@ -1,0 +1,13 @@
+Datasetul initial, Fresh and Rotten Classification
+(https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification/data), continea o combinatie de fructe si
+legume. Am extras doar fructele din acest dataset si le-am impartit pe date de train si test.
+
+Imaginile erau de dimensiuni diferite, asa ca am facut un resize cu cv2 la 64x64 pentru toate imaginile.
+
+Setul de date este unul omogen avand procenta pentru fructele fresh 17% mere, 18% banane, 10% portocale
+si un procentaj pentru fructele stricate 23% mere, 21% banane si 11%
+
+Datasetul contine un numar semnificative de poze din diferite unghiuri, lumini si fundaluri
+
+Datasetul este impartit pe train si test cu procentaj de aprox 76% respectiv 24%
+

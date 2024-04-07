@@ -1,9 +1,6 @@
-import pandas as pd
 import numpy as np
 import os
-import matplotlib.pyplot as plt
 import pickle
-import cv2
 from PIL import Image
 from sklearn.svm import SVC
 from sklearn.metrics import recall_score
